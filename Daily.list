@@ -1,3 +1,89 @@
-USER-AGENT,Gmail*,Daily
+# > Weibo
+HOST-SUFFIX,weibo.cn                ,Daily
+HOST-SUFFIX,weibo.com               ,Daily
+
+# > Google
+HOST-SUFFIX,google.com              ,Daily
+HOST-SUFFIX,google.com.hk           ,Daily
+HOST-SUFFIX,googlevideo.com         ,Daily
+HOST-SUFFIX,googleapis.com          ,Daily
+HOST-SUFFIX,google-analytics.com    ,Daily
+HOST-KEYWORD,google                 ,Daily
+HOST-SUFFIX,google.cn               ,Daily
+HOST-SUFFIX,google.com              ,Daily
+
+# > Netflix
+HOST-WILDCARD,netflixdnstest*.com   ,Daily
+HOST-SUFFIX,flxvpn.net              ,Daily
+HOST-SUFFIX,netflix.ca              ,Daily
+HOST-SUFFIX,netflix.com             ,Daily
+HOST-SUFFIX,netflix.com.au          ,Daily
+HOST-SUFFIX,netflixinvestor.com     ,Daily
+HOST-SUFFIX,netflix.net             ,Daily
+HOST-SUFFIX,netflixstudios.com      ,Daily
+HOST-SUFFIX,netflixtechblog.com     ,Daily
+HOST-SUFFIX,nflxext.com             ,Daily
+HOST-SUFFIX,nflximg.com             ,Daily
+HOST-SUFFIX,nflximg.net             ,Daily
+HOST-SUFFIX,nflxso.net              ,Daily
+HOST-SUFFIX,nflxvideo.net           ,Daily
+HOST,e13252.dscg.akamaiedge.net     ,Daily
+HOST,h-netflix.online-metrix.net    ,Daily
+HOST,netflix.com.edgesuite.net      ,Daily
+
+# > Wiki
+HOST-SUFFIX,wikipedia.org           ,Daily
+HOST-SUFFIX,wikimedia.org           ,Daily
+
+# > YouTube
+USER-AGENT,*youtube*                ,Daily
+USER-AGENT,YouTube*                 ,Daily
+HOST-WILDCARD,youtube.*             ,Daily
+HOST-WILDCARD,youtube.*.*           ,Daily
+HOST-WILDCARD,youtube.com.*         ,Daily
+HOST-SUFFIX,googlevideo.com         ,Daily
+HOST-SUFFIX,gvt1.com                ,Daily
+HOST-SUFFIX,video.google.com        ,Daily
+HOST-SUFFIX,youtu.be                ,Daily
+HOST-SUFFIX,youtube.com             ,Daily
+HOST-SUFFIX,youtube.googleapis.com  ,Daily
+HOST-SUFFIX,youtubeeducation.com    ,Daily
+HOST-SUFFIX,youtubeembeddedplayer.googleapis.com,Daily
+HOST-SUFFIX,youtubei.googleapis.com ,Daily
+HOST-SUFFIX,youtubekids.com         ,Daily
+HOST-SUFFIX,youtube-nocookie.com    ,Daily
+HOST-SUFFIX,youtube-ui.l.google.com ,Daily
+HOST-SUFFIX,yt.be                   ,Daily
+HOST-SUFFIX,yt3.ggpht.com           ,Daily
+HOST-SUFFIX,ytimg.com               ,Daily
+
+# > Spotify
+USER-AGENT,Spotify*                 ,Daily
+HOST-SUFFIX,pscdn.co                ,Daily
+HOST-SUFFIX,scdn.co                 ,Daily
+HOST-SUFFIX,spoti.fi                ,Daily
+HOST-SUFFIX,spotify.com             ,Daily
+HOST-SUFFIX,spotifycdn.com          ,Daily
+HOST-SUFFIX,spotifycdn.net          ,Daily
+HOST-SUFFIX,spotifycharts.com       ,Daily
+HOST-SUFFIX,spotifycodes.com        ,Daily
+HOST-SUFFIX,spotifyjobs.com         ,Daily
+HOST-SUFFIX,spotifynewsroom.jp      ,Daily
+HOST-SUFFIX,spotilocal.com          ,Daily
+HOST-SUFFIX,tospotify.com           ,Daily
+
+# > Steam
+HOST-SUFFIX,fanatical.com           ,Daily
+HOST-SUFFIX,humblebundle.com        ,Daily
+HOST-SUFFIX,playartifact.com        ,Daily
+HOST-SUFFIX,s.team                  ,Daily
+HOST-SUFFIX,steam-chat.com          ,Daily
+HOST-SUFFIX,steamgames.com          ,Daily
+HOST-SUFFIX,steamcommunity.com      ,Daily
+HOST-SUFFIX,steampowered.com        ,Daily
+HOST-SUFFIX,steamstatic.com         ,Daily
+HOST-SUFFIX,steamusercontent.com    ,Daily
+HOST-SUFFIX,underlords.com          ,Daily
+HOST-SUFFIX,valvesoftware.com       ,Daily
 
 GEOIP,CN,Mainland
