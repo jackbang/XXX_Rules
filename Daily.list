@@ -86,4 +86,8 @@ HOST-SUFFIX,steamusercontent.com    ,Daily
 HOST-SUFFIX,underlords.com          ,Daily
 HOST-SUFFIX,valvesoftware.com       ,Daily
 
+# > Others
+HOST-KEYWORD,tagss                  ,Daily
+HOST-SUFFIX,tagweb.vip              ,Daily
+
 GEOIP,CN,Mainland
