@@ -4,6 +4,7 @@ HOST-SUFFIX,weibo.com               ,Daily
 HOST-SUFFIX,sinaimg.cn              ,Daily
 HOST-SUFFIX,sinaimg.com             ,Daily
 HOST-SUFFIX,weibocdn.com            ,Daily
+IP-CIDR,36.51.224.0/24              ,Daily
 
 # > Google
 HOST-SUFFIX,google.com              ,Daily
