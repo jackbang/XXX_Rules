@@ -95,6 +95,9 @@ HOST-SUFFIX,valvesoftware.com       ,Daily
 HOST-SUFFIX,quora.com               ,Daily
 HOST-SUFFIX,quoracdn.net            ,Daily
 
+# > ANA
+HOST-KEYWORD,ana                    ,Daily
+
 # > Others
 HOST-KEYWORD,tagss                  ,Daily
 HOST-SUFFIX,tagweb.vip              ,Daily
