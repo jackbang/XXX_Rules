@@ -63,19 +63,6 @@ HOST-SUFFIX,yt3.ggpht.com           ,Daily
 HOST-SUFFIX,ytimg.com               ,Daily
 
 # > Spotify
-USER-AGENT,Spotify*                 ,Daily
-HOST-SUFFIX,pscdn.co                ,Daily
-HOST-SUFFIX,scdn.co                 ,Daily
-HOST-SUFFIX,spoti.fi                ,Daily
-HOST-SUFFIX,spotify.com             ,Daily
-HOST-SUFFIX,spotifycdn.com          ,Daily
-HOST-SUFFIX,spotifycdn.net          ,Daily
-HOST-SUFFIX,spotifycharts.com       ,Daily
-HOST-SUFFIX,spotifycodes.com        ,Daily
-HOST-SUFFIX,spotifyjobs.com         ,Daily
-HOST-SUFFIX,spotifynewsroom.jp      ,Daily
-HOST-SUFFIX,spotilocal.com          ,Daily
-HOST-SUFFIX,tospotify.com           ,Daily
 
 # > Steam
 HOST-SUFFIX,fanatical.com           ,Daily
